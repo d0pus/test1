@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.tishkovgv.notebook"
+    namespace = "ru.mirea.shlobin.notebook"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.tishkovgv.notebook"
+        applicationId = "ru.mirea.shlobin.notebook"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

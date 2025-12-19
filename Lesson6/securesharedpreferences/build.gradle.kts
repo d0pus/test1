@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.tishkovgv.securesharedpreferences"
+    namespace = "ru.mirea.shlobin.securesharedpreferences"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.tishkovgv.securesharedpreferences"
+        applicationId = "ru.mirea.shlobin.securesharedpreferences"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
