@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.tishkovgv.firebaseauth"
+    namespace = "ru.mirea.shlobin.firebaseauth"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.tishkovgv.firebaseauth"
+        applicationId = "ru.mirea.shlobin.firebaseauth"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
