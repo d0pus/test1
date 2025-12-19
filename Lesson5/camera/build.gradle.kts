@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ru.mirea.tishkovgv.camera"
+    namespace = "ru.mirea.shlobin.camera"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "ru.mirea.tishkovgv.camera"
+        applicationId = "ru.mirea.shlobin.camera"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
